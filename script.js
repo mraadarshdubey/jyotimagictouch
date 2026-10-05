@@ -674,9 +674,9 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       if (mapLandmarkInfo) {
         if (isMain) {
-          mapLandmarkInfo.innerHTML = '<strong>Landmark:</strong> Opp. Millennium Park, Gate No. 5 • Surat, Gujarat';
+          mapLandmarkInfo.innerHTML = '<strong>Landmark:</strong> Opp. Rami Park Society, Dindoli • Surat, Gujarat - 394210';
         } else {
-          mapLandmarkInfo.innerHTML = '<strong>Landmark:</strong> Near Rami Park, Shivalik A/C Market, Dindoli • Surat, Gujarat';
+          mapLandmarkInfo.innerHTML = '<strong>Landmark:</strong> Opp. Rami Park Society, Dindoli • Surat, Gujarat - 394210';
         }
       }
     });
